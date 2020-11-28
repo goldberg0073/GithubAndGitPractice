@@ -7,7 +7,7 @@ public class GitTests {
 
         System.out.println("Before creating repo");
         
-        System.out.println("devops made some changes "4" ==> needs to be fetch to my branche main local ");
+        System.out.println("devops made some changes 4 ==> needs to be fetch to my branche main local ");
         System.out.println("1");
         System.out.println("2");
         System.out.println("3");
