@@ -14,7 +14,7 @@ public class FetchTest {
         System.out.println("this is happening in local repo");
 
 
-
+ System.out.println("git diff 2 branches");
         
     }
 }
